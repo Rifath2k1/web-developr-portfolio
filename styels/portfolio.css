@@ -6,7 +6,7 @@ body {
 /* nav related style */
 nav {
     display: flex; 
-    /*justify-content: space-between; */
+    justify-content: space-between; 
     align-items: center;
 }
 /* primary color */
@@ -30,7 +30,6 @@ font-weight: 800;
 }
 nav > ul{
     display: flex;
-   
     align-items: center;
 
 }    
